@@ -1,0 +1,11 @@
+/Users/tanvir/Projects/labexam2/labexam2/bin/Debug/netcoreapp3.0/labexam2
+/Users/tanvir/Projects/labexam2/labexam2/bin/Debug/netcoreapp3.0/labexam2.deps.json
+/Users/tanvir/Projects/labexam2/labexam2/bin/Debug/netcoreapp3.0/labexam2.runtimeconfig.json
+/Users/tanvir/Projects/labexam2/labexam2/bin/Debug/netcoreapp3.0/labexam2.runtimeconfig.dev.json
+/Users/tanvir/Projects/labexam2/labexam2/bin/Debug/netcoreapp3.0/labexam2.dll
+/Users/tanvir/Projects/labexam2/labexam2/bin/Debug/netcoreapp3.0/labexam2.pdb
+/Users/tanvir/Projects/labexam2/labexam2/obj/Debug/netcoreapp3.0/labexam2.csprojAssemblyReference.cache
+/Users/tanvir/Projects/labexam2/labexam2/obj/Debug/netcoreapp3.0/labexam2.AssemblyInfoInputs.cache
+/Users/tanvir/Projects/labexam2/labexam2/obj/Debug/netcoreapp3.0/labexam2.AssemblyInfo.cs
+/Users/tanvir/Projects/labexam2/labexam2/obj/Debug/netcoreapp3.0/labexam2.dll
+/Users/tanvir/Projects/labexam2/labexam2/obj/Debug/netcoreapp3.0/labexam2.pdb
